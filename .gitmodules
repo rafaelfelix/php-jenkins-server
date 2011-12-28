@@ -1,0 +1,3 @@
+[submodule "modules/puppet-jenkins"]
+	path = modules/puppet-jenkins
+	url = git://github.com/rafaelfelix/puppet-jenkins.git
